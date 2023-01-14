@@ -1,3 +1,5 @@
+```
+
 namespace Microsoft.AzSK.ATS.ADOScanner.Repositories
 {
     using System;
@@ -132,3 +134,5 @@ namespace Microsoft.AzSK.ATS.ADOScanner.Repositories
         }
     }
 }
+
+```
